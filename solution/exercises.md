@@ -15,11 +15,11 @@ Gọi `call_openai` với temperature 0.0, 0.5, 1.0 và 1.5 dùng prompt
 **"Hãy kể cho tôi một sự thật thú vị về Việt Nam."**
 
 **Bạn nhận thấy quy luật gì qua bốn phản hồi?** (2–3 câu)
-> *Dựa trên kết quả tại phần này chưa đủ cơ sở để khẳng định một quy luật nào. Tuy nhiên, dưa trên lý thuyết việc tăng temperature từ 0.0 lên 1.5 làm cho câu trả lời đa dạng và sáng tạo hơn. Khi temperature bằng 0.0 câu trả lời ổn định và ít biến đổi, và ngược lại khi temperature bằng 1.5 câu trả lời sẽ phong phú hơn. *
+> *Câu trả lời của bạn*
 
 ### Câu 1.2 — Chọn temperature cho sản phẩm
 **Bạn sẽ đặt temperature bao nhiêu cho chatbot hỗ trợ khách hàng, và tại sao?**
-> *Với yêu cầu một AI chăm sóc khách hàng, câu trả lời đầu ra cần ưu tiên sự chính xác, nhất quán và không trả lời linh tinh - nghĩa là cần tránh sự dài dòng. Vì vậy nên chọn temperature ngưỡng thấp hoặc trung bình thấp - khoảng 0.3. *
+> *Câu trả lời của bạn*
 
 ### Câu 1.3 — Đánh đổi chi phí
 Kịch bản: 10.000 người dùng hoạt động mỗi ngày, mỗi người gọi API 3 lần,
